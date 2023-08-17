@@ -1,3 +1,5 @@
+Pavel: Here I put my changes in this readme file
+
 # null_or_empty
 
 [![Node CI](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml/badge.svg)](https://github.com/kalwar/null_or_empty/actions/workflows/whatever.yml)
@@ -23,3 +25,5 @@ Then, require the package and use it like so:
 ## License
 
 MIT
+
+
